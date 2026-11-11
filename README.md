@@ -6,7 +6,6 @@ A 16-bit combinational ALU with 16 operations and 4 flags
 - alu_16bit.v    : ALU design
 - alu_16bit_tb.v : self-checking testbench (21 test cases)
 - ALU_16bit_Project_Report_Final.pdf : project report
-- screenshots/   : waveform, console output, schematic
 
 ## Result
 TOTAL PASS = 21, FAIL = 0
